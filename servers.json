@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kivo Dev Server",
+    "ip": "kivo-server.example.com",
+    "port": 8080
+  },
+
+  {
+    "name": "Kivo MSK-1 DC",
+    "ip": "kivo-server.example.com",
+    "port": 8080
+  }
+]
