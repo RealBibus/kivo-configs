@@ -6,8 +6,8 @@
   },
 
   {
-    "name": "Kivo MSK-1 DC",
-    "ip": "kivo-server.example.com",
+    "name": "local dev",
+    "ip": "127.0.0.1",
     "port": 8080
   }
 ]
